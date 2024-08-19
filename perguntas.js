@@ -1,16 +1,16 @@
 export const perguntas = [
     {
-        enunciado: "Como podemos reduzir o consumo de plástico descartável em nossas comunidades?",
+        enunciado: "Como podemos reduzir a poluição do ar nas grandes cidades?",
         alternativas: [
             {
-                texto: "a)Não implementar programas de reciclagem mais abrangentes e acessíveis, e não incentivar a separação correta dos resíduos plásticos. ",
+                texto: "a)Promover o uso de transportes públicos e alternativos: Incentivar a utilização de ónibus, metros, bicicletas e caminhadas através de melhorias na infraestrutura e criação de campanhas de conscientização. ",
                 afirmacao:[
                  "Errado!",
                 ""],
                 proxima: 1,
             },
             {
-                texto: "b)Promover o uso de produtos reutilizáveis, como sacolas de pano e garrafas de água de metal, por meio de campanhas educativas e incentivos fiscais. ",
+                texto: "b)Implementar zonas de baixa emissão: Criar áreas onde o tráfego de veiculos altamente poluentes seja restrito ou proibido, incentivando o uso de veículos elétricos e hibridos. ",
                 afirmacao:[
                  "Correto!",
                 ""]
